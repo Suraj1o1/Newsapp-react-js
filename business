@@ -1,0 +1,8 @@
+<Route path="/business " index element={ <Newscom pageSize={8} country="us" category="business" />} />
+<Route path="/entertainment" index element={ <Newscom pageSize={8} country="us" category="entertainment" />} />
+<Route path="/general" index element={ <Newscom pageSize={8} country="us" category="general" />} />
+<Route path="/health" index element={ <Newscom pageSize={8} country="us" category="health" />} />
+<Route path="/science" index element={ <Newscom pageSize={8} country="us" category="science" />} />
+<Route path="/sports" index element={ <Newscom pageSize={8} country="us" category="sports" />} />
+<Route path="/technology" index element={ <Newscom pageSize={8} country="us" category="technology" />} />
+<!-- <Route path="/business" index element={ <Newscom pageSize={8} country="us" category="business" />} /> -->
