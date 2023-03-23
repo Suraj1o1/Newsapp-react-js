@@ -21,7 +21,7 @@ const App =()=> {
         progress={progress}
         height={3}
       />
-         {/*<Newscom setprogress={setprogress}pageSize={8} country="us" category="general" /> */}
+        
         
 
         <Routes>
